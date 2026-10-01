@@ -1,31 +1,33 @@
 # Quantums-meruit.github.io
-
-##My Learning Goals
 ---
 
-### Heading 3
-#### Heading 4
-**bold text**
-*italic text*
-~~strikethrough~~
-`inline code`
-[Link text](https://example.com)
-![Alt text](https://url-to-image.com/image.png)
+## Learning Goals
+---
 
+My learning Goals is to be able to create and explore the fun behind the creation of websites.
+Furthermore to be able to make a career for myself as i grow.
 
-> This is a blockquote. Use it to highlight important information.
-
-```python
-print("Hello, world!")
+## The Project 
 ```
-- [x] Completed task
-- [ ] Incomplete task
-- [ ] Another task to do
+> The project above  exercises the syntax used in:
+  - lists
+  - links
+  - anchor tags
+                and many more.
 
+```
+### Git Commands 
+Upon running 
+> git config --global --list
+The following was the output:
+```
 
----
+$ git config --global --list
+user.name=Quantums-meruit
+user.email=m9776104@gmail.com
 
+```
 
-
-
+## Conclusion
+In conclusion, I've learnt how to deploy using [GitHub pages](https://github.com/Quantums-meruit/iyf-s12-week-00-team-Quantums-Meruit/settings/pages) 
 
